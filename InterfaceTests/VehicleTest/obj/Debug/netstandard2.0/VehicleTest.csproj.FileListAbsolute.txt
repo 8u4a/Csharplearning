@@ -1,0 +1,9 @@
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\VehicleTest\obj\Debug\netstandard2.0\VehicleTest.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\VehicleTest\obj\Debug\netstandard2.0\VehicleTest.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\VehicleTest\obj\Debug\netstandard2.0\VehicleTest.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\VehicleTest\obj\Debug\netstandard2.0\VehicleTest.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\VehicleTest\bin\Debug\netstandard2.0\VehicleTest.deps.json
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\VehicleTest\bin\Debug\netstandard2.0\VehicleTest.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\VehicleTest\bin\Debug\netstandard2.0\VehicleTest.pdb
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\VehicleTest\obj\Debug\netstandard2.0\VehicleTest.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\VehicleTest\obj\Debug\netstandard2.0\VehicleTest.pdb

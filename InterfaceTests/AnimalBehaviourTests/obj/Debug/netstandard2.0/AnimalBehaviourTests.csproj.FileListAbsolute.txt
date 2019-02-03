@@ -1,0 +1,9 @@
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\AnimalBehaviourTests\bin\Debug\netstandard2.0\AnimalBehaviourTests.deps.json
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\AnimalBehaviourTests\bin\Debug\netstandard2.0\AnimalBehaviourTests.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\AnimalBehaviourTests\bin\Debug\netstandard2.0\AnimalBehaviourTests.pdb
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\AnimalBehaviourTests\obj\Debug\netstandard2.0\AnimalBehaviourTests.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\AnimalBehaviourTests\obj\Debug\netstandard2.0\AnimalBehaviourTests.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\AnimalBehaviourTests\obj\Debug\netstandard2.0\AnimalBehaviourTests.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\AnimalBehaviourTests\obj\Debug\netstandard2.0\AnimalBehaviourTests.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\AnimalBehaviourTests\obj\Debug\netstandard2.0\AnimalBehaviourTests.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\AnimalBehaviourTests\obj\Debug\netstandard2.0\AnimalBehaviourTests.pdb

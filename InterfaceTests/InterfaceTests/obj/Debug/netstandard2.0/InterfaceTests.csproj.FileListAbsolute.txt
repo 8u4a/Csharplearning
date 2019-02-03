@@ -1,0 +1,9 @@
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\InterfaceTests\bin\Debug\netstandard2.0\InterfaceTests.deps.json
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\InterfaceTests\bin\Debug\netstandard2.0\InterfaceTests.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\InterfaceTests\bin\Debug\netstandard2.0\InterfaceTests.pdb
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\InterfaceTests\obj\Debug\netstandard2.0\InterfaceTests.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\InterfaceTests\obj\Debug\netstandard2.0\InterfaceTests.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\InterfaceTests\obj\Debug\netstandard2.0\InterfaceTests.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\InterfaceTests\obj\Debug\netstandard2.0\InterfaceTests.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\InterfaceTests\obj\Debug\netstandard2.0\InterfaceTests.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\InterfaceTests\obj\Debug\netstandard2.0\InterfaceTests.pdb
