@@ -6,8 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\AnimalBehaviourTests\AnimalBehaviourTests.csproj" />
     <ProjectReference Include="..\InterfaceTests\InterfaceTests.csproj" />
+    <ProjectReference Include="..\SerializationTest\SerializationTest.csproj" />
     <ProjectReference Include="..\VehicleTest\VehicleTest.csproj" />
   </ItemGroup>
 

@@ -16,3 +16,5 @@ C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests
 C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\Tests\bin\Debug\netcoreapp2.1\InterfaceTests.pdb
 C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\Tests\bin\Debug\netcoreapp2.1\VehicleTest.pdb
 C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\Tests\bin\Debug\netcoreapp2.1\SerializationTest.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\Tests\bin\Debug\netcoreapp2.1\SerializationTest.pdb

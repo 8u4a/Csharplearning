@@ -1,0 +1,9 @@
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\SerializationTest\bin\Debug\netstandard2.0\SerializationTest.deps.json
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\SerializationTest\bin\Debug\netstandard2.0\SerializationTest.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\SerializationTest\bin\Debug\netstandard2.0\SerializationTest.pdb
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\SerializationTest\obj\Debug\netstandard2.0\SerializationTest.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\SerializationTest\obj\Debug\netstandard2.0\SerializationTest.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\SerializationTest\obj\Debug\netstandard2.0\SerializationTest.AssemblyInfoInputs.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\SerializationTest\obj\Debug\netstandard2.0\SerializationTest.AssemblyInfo.cs
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\SerializationTest\obj\Debug\netstandard2.0\SerializationTest.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C# Learning\Csharplearning\InterfaceTests\SerializationTest\obj\Debug\netstandard2.0\SerializationTest.pdb

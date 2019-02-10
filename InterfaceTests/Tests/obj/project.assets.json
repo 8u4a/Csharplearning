@@ -208,6 +208,15 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "Newtonsoft.Json/12.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
       "AnimalBehaviourTests/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -226,6 +235,16 @@
         },
         "runtime": {
           "bin/placeholder/InterfaceTests.dll": {}
+        }
+      },
+      "SerializationTest/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SerializationTest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SerializationTest.dll": {}
         }
       },
       "VehicleTest/1.0.0": {
@@ -711,6 +730,45 @@
         "netstandard.library.nuspec"
       ]
     },
+    "Newtonsoft.Json/12.0.1": {
+      "sha512": "pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.pdb",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.pdb",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.pdb",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.pdb",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.pdb",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.pdb",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.pdb",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.pdb",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.pdb",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
+    },
     "AnimalBehaviourTests/1.0.0": {
       "type": "project",
       "path": "../AnimalBehaviourTests/AnimalBehaviourTests.csproj",
@@ -720,6 +778,11 @@
       "type": "project",
       "path": "../InterfaceTests/InterfaceTests.csproj",
       "msbuildProject": "../InterfaceTests/InterfaceTests.csproj"
+    },
+    "SerializationTest/1.0.0": {
+      "type": "project",
+      "path": "../SerializationTest/SerializationTest.csproj",
+      "msbuildProject": "../SerializationTest/SerializationTest.csproj"
     },
     "VehicleTest/1.0.0": {
       "type": "project",
@@ -732,6 +795,8 @@
       "AnimalBehaviourTests >= 1.0.0",
       "InterfaceTests >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0",
+      "Newtonsoft.Json >= 12.0.1",
+      "SerializationTest >= 1.0.0",
       "VehicleTest >= 1.0.0"
     ]
   },
@@ -771,6 +836,9 @@
             "C:\\Users\\Irene\\Desktop\\Proiecte_with_B\\C# Learning\\Csharplearning\\InterfaceTests\\InterfaceTests\\InterfaceTests.csproj": {
               "projectPath": "C:\\Users\\Irene\\Desktop\\Proiecte_with_B\\C# Learning\\Csharplearning\\InterfaceTests\\InterfaceTests\\InterfaceTests.csproj"
             },
+            "C:\\Users\\Irene\\Desktop\\Proiecte_with_B\\C# Learning\\Csharplearning\\InterfaceTests\\SerializationTest\\SerializationTest.csproj": {
+              "projectPath": "C:\\Users\\Irene\\Desktop\\Proiecte_with_B\\C# Learning\\Csharplearning\\InterfaceTests\\SerializationTest\\SerializationTest.csproj"
+            },
             "C:\\Users\\Irene\\Desktop\\Proiecte_with_B\\C# Learning\\Csharplearning\\InterfaceTests\\VehicleTest\\VehicleTest.csproj": {
               "projectPath": "C:\\Users\\Irene\\Desktop\\Proiecte_with_B\\C# Learning\\Csharplearning\\InterfaceTests\\VehicleTest\\VehicleTest.csproj"
             }
@@ -790,6 +858,10 @@
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.1, )"
           }
         },
         "imports": [
