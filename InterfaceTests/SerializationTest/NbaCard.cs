@@ -2,15 +2,16 @@
 
 namespace SerializationTest
 {
-    public class NbaCard
+    public class NbaCard: Card
     {
-        public string Title { get; set; }
-        public string Link { get; set; }
 
-        public override string ToString()
+
+        public override string ShowCard()
         {
-            return "Properties are: " + Title + " " + Link;
-            //return base.ToString();
+           
+        
+          return "Properties are: " + Title + " " + Link;
+            
         }
 
     }

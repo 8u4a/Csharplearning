@@ -14,7 +14,7 @@ namespace Tests
         {
 
 
-            var cards = new List<NbaCard>()
+            var cards = new List<Card>()
             {
                 new NbaCard()
                 {
@@ -42,6 +42,17 @@ namespace Tests
                     Title = "Shaq",
                     Link = "https://c1.staticflickr.com/9/8370/8406752121_379eee2281_z.jp"
                 },
+
+                new NflCard()
+                {
+                    Title = "Lynch",
+                    Link = "https://c.o0bc.com/wp-content/uploads/2015/09/09012008_01jvlynch-6862915-5013-850x478$large.jpg"
+                },
+                new NflCard()
+                {
+                    Title = "Brady",
+                    Link = "https://media.profootballfocus.com/2016/10/GettyImages-619283346.jpg?w=916&h=720"
+                }
             };
 
 
@@ -52,7 +63,7 @@ namespace Tests
                 Console.WriteLine(serializedCardInfo);
                
                 var deserializedCardInfo = JsonConvert.DeserializeObject<NbaCard>(serializedCardInfo);
-                Console.WriteLine(deserializedCardInfo.ToString());
+                Console.WriteLine("New " + deserializedCardInfo.ShowCard());
 
                 Console.WriteLine(Environment.NewLine);
             }
